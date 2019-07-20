@@ -4,5 +4,6 @@ public class hole {
         System.out.println("你好，Java");
          System.out.println("你好，PyThon");
         System.out.println("你好，C语言");
+         System.out.println("你好，PHP);
     }
 }
