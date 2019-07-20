@@ -28,7 +28,7 @@ public class erfenpaixu {
             if(key > midIndexVal){
                 minIndex = midIndex + 1;
             }else if(key < midIndexVal){
-                maxIndex = midIndex - 1;
+                maxIndex =  midIndex - 1;
             }else{
                 return midIndex;
             }
